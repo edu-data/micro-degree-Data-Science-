@@ -71,8 +71,8 @@
 
 | 도서명 | 출판사 | 연도 | 구매 |
 |--------|--------|------|------|
-| **사회과학연구를 위한 네트워크 분석방법** | 사회평론아카데미 | 2022 | [![Yes24](https://img.shields.io/badge/Yes24-구매하기-blue)](https://www.yes24.com/Product/Goods/114827950) |
-| **디지털 시대의 인공지능과 교육** | 학지사 | 2024 | [![Yes24](https://img.shields.io/badge/Yes24-구매하기-blue)](https://www.yes24.com/Product/Goods/125614076) |
+| **사회과학연구를 위한 네트워크 분석방법** | 사회평론아카데미 | 2022 | [![Yes24](https://img.shields.io/badge/Yes24-구매하기-blue)](https://www.yes24.com/product/goods/119479887) |
+| **디지털 시대의 인공지능과 교육** | 학지사 | 2024 | [![Yes24](https://img.shields.io/badge/Yes24-구매하기-blue)](https://www.yes24.com/product/goods/125615708) |
 
 ---
 
